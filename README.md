@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-
-An interactive Kanban board application using React JS that interacts with the provided API from  https://api.quicksell.co/v1/internal/frontend-assignment
-=======
 Kanban Board
 An interactive Kanban board application using React JS that interacts with the provided API from  https://tfyincvdrafxe7ut2ziwuhe5cm0xvsdu.lambda-url.ap-south-1.on.aws/ticketAndUsers
->>>>>>> 70f6cc493e326ab20d8128fd921c241b7fba7980
 
 ## Contents 
 - [Introduction](#introduction)
@@ -33,5 +28,5 @@ Users should also be able to sort the displayed tickets in two ways:
 
 
 ## Live 
-**Live Link** : 
+**Live Link** : https://65869c5344a5bc6715b4e787--glittering-parfait-6872da.netlify.app/
 
