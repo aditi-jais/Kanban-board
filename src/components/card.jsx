@@ -6,7 +6,7 @@ import { useSelector } from "react-redux";
 
 // Card component to display individual cards on the Kanban board
 const Card = ({ id, title, tags, userId, status, priority}) => {
-    const { dashColumn, userstatus, prioritystatus, statstatus} = useSelector((state) => state.dataSelectSlice);
+    const {  userstatus, prioritystatus, statstatus} = useSelector((state) => state.dataSelectSlice);
     const { users } = useSelector((state) => state.dataSlice);
     let availablearr = {};
     users.forEach((avuser) => {

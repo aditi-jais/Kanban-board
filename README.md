@@ -1,4 +1,4 @@
-# ![favicon-32x32](https://github.com/agrSaket/Kanban-Board/assets/134057654/67ba83ff-2fde-4857-87f3-75ddce33cacc) Kanban Board
+
 An interactive Kanban board application using React JS that interacts with the provided API from  https://api.quicksell.co/v1/internal/frontend-assignment
 
 ## Contents 
