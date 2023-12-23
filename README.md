@@ -29,7 +29,7 @@ Users should also be able to sort the displayed tickets in two ways:
 
 
 ## Live 
-**Live Link** : https://agr-kanban-board.netlify.app/
+**Live Link** : 
 
 
 ## Tech Stack
