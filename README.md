@@ -4,7 +4,6 @@ An interactive Kanban board application using React JS that interacts with the p
 ## Contents 
 - [Introduction](#introduction)
 - [Live](#live)
-- [Tech Stack](#tech-stack)
 
 ## Introduction 
 When a user clicks the "display" button and selects a grouping option, the Kanban board dynamically adjust to reflect the user's choice.
@@ -31,10 +30,3 @@ Users should also be able to sort the displayed tickets in two ways:
 ## Live 
 **Live Link** : 
 
-
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- React-icons
