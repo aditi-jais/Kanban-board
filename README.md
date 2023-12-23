@@ -1,11 +1,14 @@
+<<<<<<< HEAD
 
 An interactive Kanban board application using React JS that interacts with the provided API from  https://api.quicksell.co/v1/internal/frontend-assignment
+=======
+Kanban Board
+An interactive Kanban board application using React JS that interacts with the provided API from  https://tfyincvdrafxe7ut2ziwuhe5cm0xvsdu.lambda-url.ap-south-1.on.aws/ticketAndUsers
+>>>>>>> 70f6cc493e326ab20d8128fd921c241b7fba7980
 
 ## Contents 
 - [Introduction](#introduction)
 - [Live](#live)
-- [Demo](#demo)
-- [Tech Stack](#tech-stack)
 
 ## Introduction 
 When a user clicks the "display" button and selects a grouping option, the Kanban board dynamically adjust to reflect the user's choice.
@@ -30,15 +33,5 @@ Users should also be able to sort the displayed tickets in two ways:
 
 
 ## Live 
-**Live Link** : https://agr-kanban-board.netlify.app/
+**Live Link** : 
 
-## Demo
-![kanban-board](https://github.com/agrSaket/Kanban-Board/assets/134057654/96467fac-deda-46eb-84e0-e642440b6c79)
-
-
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- React-icons
